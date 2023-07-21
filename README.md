@@ -3,7 +3,7 @@
 
 <div align="center">
 <a href="https://sidneyteodorojr.github.io/EpicTech-Universe/" target="_blank">
-<img src="https://github.com/SidneyTeodoroJr/interactive_image_gallery/blob/main/image_gallery.png" alt="gradient">
+<img src="https://github.com/SidneyTeodoroJr/EpicTech-Universe/blob/main/assets/epic-tech-universe.png" alt="gradient">
 </a>
 </div>
 </br> 
