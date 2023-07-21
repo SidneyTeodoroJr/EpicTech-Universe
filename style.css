@@ -21,6 +21,16 @@
     font-family: 'Mina', sans-serif;
 }
 
+@media (prefers-reduced-motion: no-preference) {
+    html {
+      scroll-behavior: smooth;
+    }
+}
+  
+:target {
+    scroll-margin-top: 4.5em;
+}
+
 .nav-link {
     text-align: center;
     color: var(--white);
@@ -186,6 +196,9 @@
     #servicesCardPonta {
         margin-top: 0;
     }
+    #sobre {
+        padding-top: 3em;
+    }
 }
 
 @media screen and (min-width: 900px) {
@@ -195,5 +208,9 @@
 
     #servicesCardPonta {
         margin-top: 5%;
+    }
+
+    #sobre {
+        padding-top: 8em;
     }
 }
