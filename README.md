@@ -17,6 +17,15 @@
 <h3 align="left"><a href="https://sidneyteodorojr.github.io/EpicTech-Universe/">Live demo></a></h3>
 </br>
 
+## Technologies used
+
+. <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank">HTML</a>
+</br>
+. <a href="https://www.w3schools.com/css/default.asp" target="_blank">CSS</a>
+</br>
+. <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank">Bootstrap</a>
+</br>
+
 ## How to Contribute
 
 <p>
