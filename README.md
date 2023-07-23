@@ -25,6 +25,8 @@
 </br>
 . <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank">Bootstrap</a>
 </br>
+. <a href="https://www.w3schools.com/js/default.asp" target="_blank">JavaScript</a>
+</br>
 
 ## How to Contribute
 
